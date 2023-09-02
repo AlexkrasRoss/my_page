@@ -5,7 +5,7 @@
 ## Красильников Александр  
 
  В 2023 году я стал обучаться на образовательной  **платформе №-1**<br>
- ### НЕТОЛОГИЯ ![НЕТОЛОГИЯ.](https://netology.ru/blog/wp-content/themes/aquene-child-theme/img/logo.svg "НЕТОЛОГИЯ")
+ ### НЕТОЛОГИЯ  ![НЕТОЛОГИЯ.](https://netology.ru/blog/wp-content/themes/aquene-child-theme/img/logo.svg "НЕТОЛОГИЯ")
   на курсе **Frontend-разработчик с нуля до middle**
 
 На платформе **"НЕТОЛОГИЯ"** учеба происходит систематизированно..
